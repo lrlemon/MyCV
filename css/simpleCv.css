@@ -1,0 +1,159 @@
+body{
+	background-color:#9B9E9E;
+}
+*{
+	margin:0;
+	padding:0;
+}
+
+
+
+/*header start*/
+.container {
+	width: 920px;
+	height: 100%;
+	background-color: #ffffff;
+	margin: auto;
+	padding: 50px 50px 50px 50px;
+}
+.header .name{
+	float:left;
+}
+.header .name p {
+	font-size: 17px;
+}
+.header .img img {
+	float: right;
+	height: 160px;
+}
+.header {
+	padding-bottom: 30px;
+}
+.clear{
+	clear:both;
+}
+/*header end*/
+
+
+
+
+/*body start*/
+/*objective start*/
+.heading h3 {
+	height: 20px;
+	width: 100%;
+	background-color: #b4c6e7;
+	padding: 2px 0px 2px 2px;
+}
+.heading p {
+	text-indent: 55px;
+	padding: 10px 0px 20px 0px;
+	text-align: justify;
+}
+.all-heading h3{
+	height: 20px;
+	background-color: #c5e0b3;
+	padding: 2px 0px 2px 2px;
+}
+.BSC .BSC1 {
+	width: 16%;
+	float: left;
+}
+.BSC .BSC2 {
+	width: 3%;
+	float: left;
+}
+.BSC {
+	padding: 13px 0px;
+}
+.HSC .HSC1 {
+	width: 16%;
+	float: left;
+}
+.HSC .HSC2 {
+	width: 3%;
+	float: left;
+}
+/* .HSC {
+	padding: 13px 0px;
+} */
+.SSC .SSC1 {
+	width: 16%;
+	float: left;
+}
+.SSC .SSC2 {
+	width: 3%;
+	float: left;
+}
+.SSC {
+	padding: 13px 0px;
+}
+.technical-skill:nth-child(3){
+	display:flex;
+}
+i{
+	float:left;
+	margin-right:13px;
+	
+}
+.technical-skill1 h4{
+	float:left;
+	padding-right:8px;
+}
+.technical-skill{
+	margin-left:30px;
+}
+.tech-text {
+	padding: 15px 0 15px 0;
+	text-align:justify;
+}
+
+
+
+
+
+
+
+.research-text {
+	padding: 15px 0 15px 0;
+}
+.projects{
+	display:flex;
+	margin-left:30px;
+}
+.projects h4{
+	float:left;
+	padding-right:8px;
+}
+
+
+
+
+
+.certification1{
+	margin-left:30px;
+}
+
+
+
+
+.personal1{
+	padding: 15px 0 15px 0;
+}
+
+.personal2 {
+	float: left;
+	padding: 0px 102px 0px 0;
+}
+.personal3 {
+	float: left;
+	padding-right: 3px;
+}
+
+
+
+
+
+
+
+
